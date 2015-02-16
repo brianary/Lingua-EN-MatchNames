@@ -86,7 +86,7 @@ or other bulk advertising.
 
 =head1 AUTHOR
 
-Brian Lalonde, E<lt>brianl@sd81.k12.wa.usE<gt>
+Brian Lalonde, E<lt>brian@webcoder.infoE<gt>
 
 =head1 REQUIREMENTS
 
@@ -120,7 +120,7 @@ use strict;
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
 use vars qw($debug);
 
-$VERSION=     '1.23';
+$VERSION=     '1.31';
 @ISA=         qw(Exporter);
 @EXPORT=      qw(name_eq);
 @EXPORT_OK=   qw(fname_eq lname_eq);
