@@ -1,0 +1,14 @@
+Revision history for Perl extension Lingua::EN::MatchNames.
+
+20150213
+  * added license
+
+20000530
+  * minor documentation fix
+
+19991222
+  * re-release to stay synched with Lingua::EN::Nickname
+
+19991202
+  * original release version; created by h2xs 1.19
+
