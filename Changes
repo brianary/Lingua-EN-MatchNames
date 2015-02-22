@@ -1,5 +1,8 @@
 Revision history for Perl extension Lingua::EN::MatchNames.
 
+1.33 Sat 21 Feb 2015 10:05:04 PM PST 
+  * version parity with Lingua::EN::Nickname
+
 1.31 Mon Feb 16 10:43:54 2015 
   * corrected email
   * added to github: https://github.com/brianary/Lingua-EN-MatchNames

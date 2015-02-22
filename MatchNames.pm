@@ -120,7 +120,7 @@ use strict;
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
 use vars qw($debug);
 
-$VERSION=     '1.31';
+$VERSION=     '1.33';
 @ISA=         qw(Exporter);
 @EXPORT=      qw(name_eq);
 @EXPORT_OK=   qw(fname_eq lname_eq);
