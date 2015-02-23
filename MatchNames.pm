@@ -84,6 +84,10 @@ This module probably should not be used for life support or military
 purposes, and it B<must> not be used for unsolicited commercial email
 or other bulk advertising.
 
+=head1 REPOSITORY
+
+L<https://github.com/brianary/Lingua-EN-MatchNames>
+
 =head1 AUTHOR
 
 Brian Lalonde, E<lt>brian@webcoder.infoE<gt>
