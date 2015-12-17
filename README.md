@@ -73,7 +73,7 @@ or other bulk advertising.
 
 # AUTHOR
 
-Brian Lalonde, <brianl@sd81.k12.wa.us>
+Brian Lalonde
 
 # REQUIREMENTS
 
